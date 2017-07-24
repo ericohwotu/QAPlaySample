@@ -1,0 +1,14 @@
+logs
+target
+src
+project
+/target
+/logs
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+/src
+/project
