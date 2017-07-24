@@ -11,6 +11,5 @@ class HomeController extends Controller{
     Ok("Hello World")
   }
 
-
 }
 

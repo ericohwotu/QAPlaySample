@@ -12,3 +12,18 @@ project
 /RUNNING_PID
 /src
 /project
+
+*.class
+*.log
+*.idea
+
+# sbt specific
+dist/*
+target/
+project/project/*
+project/target/*
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
